@@ -9,3 +9,8 @@ How to Run:
 
 
   usb_cam is also included incase problems with video_stream_opencv
+  
+  
+  Dependancies:
+    OpenSSL
+    OpenCV
