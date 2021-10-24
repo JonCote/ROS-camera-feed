@@ -1,0 +1,17 @@
+# pack-refs with: peeled fully-peeled sorted 
+c90d142831409ba215553890821db09a1fcaa4b5 refs/remotes/origin/develop
+29b6b70538b31ba1ed806386cf35e08dd4efcd1f refs/remotes/origin/hydro-devel
+4ab9568b34a66b9517b58f8161a63fdee8bf1677 refs/remotes/origin/master
+fc7338449da5789a59337d57d7ca374bbd7a0ad9 refs/remotes/origin/ros2
+ff858f6b08c6153b9dfc0964ad28123957981834 refs/tags/0.0.1
+1f5c279e08ba30ffe875e1a80d9fa02951db1fe5 refs/tags/0.0.2
+29b6b70538b31ba1ed806386cf35e08dd4efcd1f refs/tags/0.0.3
+79203146d9e3e5a8de811a9d03aba41d944ff623 refs/tags/0.0.4
+c2c29d21f3c4701e3932f79fff5ad444e3d9c0b7 refs/tags/0.0.5
+6775e5d0d4e0c6664649316f737eb303a2226d10 refs/tags/0.0.6
+7ae8712d65718c1c0f3f2a2d6b7372c243ea7e19 refs/tags/0.0.7
+0077643461baddd8a11813ec4c248c088dc4bd7c refs/tags/0.1.0
+224f1abf8b28c3c3a4cc7add2d920e9559b044f9 refs/tags/0.2.0
+4ab9568b34a66b9517b58f8161a63fdee8bf1677 refs/tags/0.2.1
+c90d142831409ba215553890821db09a1fcaa4b5 refs/tags/0.2.2
+2f785ee6a61c26ecd53682ab4bf849016a79063f refs/tags/1.0.0

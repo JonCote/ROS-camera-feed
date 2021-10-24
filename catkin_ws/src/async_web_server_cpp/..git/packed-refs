@@ -1,0 +1,11 @@
+# pack-refs with: peeled fully-peeled sorted 
+fac1c096a820f8d6b88ba9cfe1afa08c4307a63f refs/remotes/origin/develop
+4939df0083363d77bb1505272f20ca62887932f6 refs/remotes/origin/dirk-thomas/fix-duplicate-name-test-function
+ccfdefbb9992ae3eb7f175019065128217131c2c refs/remotes/origin/hydro-devel
+8ece9766107d9ed98fc3a9dbc6f3e4bc5069a60f refs/remotes/origin/master
+636c9e3de63f89c99b18c8cbbe2ec950e1d34785 refs/remotes/origin/noetic-devel
+ef12c82be09c38a004212e86274b18c4defaf9ce refs/remotes/origin/ros2
+15eae53a247563fad0bb6bd7aded24ed13be4f51 refs/tags/0.0.1
+ccfdefbb9992ae3eb7f175019065128217131c2c refs/tags/0.0.2
+6ecf759e9e9820d13554f34f255347df58a16f95 refs/tags/0.0.3
+ef12c82be09c38a004212e86274b18c4defaf9ce refs/tags/1.0.0

@@ -1,0 +1,16 @@
+# pack-refs with: peeled fully-peeled sorted 
+42e28c567e9ad2c5e2ab565d5d21f40d631b1a6c refs/remotes/origin/bugfix-fix-mjpg_server-test
+118dbc8d94d230a72f7dbdc57db0773def7977bf refs/remotes/origin/lower_rosout_when_fail_to_capture
+65949bdc5c9468d18c51aed9073d020bec892532 refs/remotes/origin/master
+8650f43948096ff79267a6107135a0da5edbe422 refs/remotes/origin/optional_camera_set
+66ca5bcd3baca1aff153bd7b510a1d1ca7543a2b refs/remotes/origin/thread_version
+3310a58de943bfd538a395fb8024a7f5a06e067b refs/tags/1.0.1
+^a5a569c6678f92bd867fcdfbcb527a902f1205ed
+3d0c8d027b6e83f32ba71a6a6e783673bbb94e32 refs/tags/1.0.2
+5bfcf46913a78c7580c6dba1116f5dad4c1ef24d refs/tags/1.1.0
+9dff4233f187d638a712517ff04aeb2ca5e4f353 refs/tags/1.1.1
+efa75244a07ee26a4b4305f9ed6db644e6f84cfb refs/tags/1.1.2
+605f32db1be0a5cc9e3179d183e8bd36c00ad906 refs/tags/1.1.3
+bd56188faf8b630f656d76ac959688bdbaee20ae refs/tags/1.1.4
+22b90fa9b153ed1775afffa2bd166d757560e80a refs/tags/1.1.5
+3c172cf33684f5df2ebb20bbe7bcbd464e2b2bb4 refs/tags/1.1.6

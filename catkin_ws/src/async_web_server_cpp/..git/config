@@ -1,0 +1,14 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/sfalexrog/async_web_server_cpp.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "develop"]
+	remote = origin
+	merge = refs/heads/develop
+[branch "noetic-devel"]
+	remote = origin
+	merge = refs/heads/noetic-devel
